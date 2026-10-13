@@ -1,1 +1,18 @@
 /* your code */
+table{
+        border-collapse: collapse;
+                
+       }
+
+        td,tr{
+            padding: 19px;
+            
+        }
+        th{
+            background-color: rgb(80, 143, 168);
+            padding: 30px
+            
+        }
+        .bg{
+            background-color: rgb(204, 203, 202);
+        }
